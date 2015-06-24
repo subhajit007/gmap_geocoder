@@ -1,0 +1,10 @@
+Google Maps and Geocoder together with underscore.js
+
+
+A simple rails app for Showing the location of user including their description.
+
+heroku link
+
+gem guide
+
+https://github.com/apneadiving/Google-Maps-for-Rails
